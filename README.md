@@ -1,24 +1,9 @@
-# projet_ui
+#  VueJS Movies CRUD
+## DUPUY Tom _ DAWIN B
 
-## Project setup
-```
-yarn install
-```
+Projet en VueJS afin de permettre les opérations CRUD sur des films
 
-### Compiles and hot-reloads for development
+### Project setup
 ```
-yarn serve
+npm install && npm run serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
